@@ -5,4 +5,6 @@ The short videos below show the process of creating some of the images included 
 
 Class specific image generation for SFT:
 
-![](SFT_CSIG_inception.gif)                 ![](SFT_CSIG_inception.gif)
+![](SFT_CSIG_inception.gif)
+
+
