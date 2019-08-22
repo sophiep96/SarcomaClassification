@@ -6,9 +6,9 @@ The short videos below show the process of creating some of the images included 
 | Method        | SS            | SFT   |
 | ------------- |:-------------:| :-----:|
 | Class specific image generation (Inception) | ![](gifs/SS_CSIG_inception.gif) | ![](gifs/SFT_CSIG_inception.gif) |
-| Class specific image generation (AlexNet) | centered      |   $12 |
+| Class specific image generation (AlexNet) | ![](gifs/alexnet_SS_CSIG.gif)      |  ![](gifs/alexnet_SFT_CSIG.gif) |
 | Deep Dream (standard)| ![](gifs/SS_deepdream.gif) | ![](gifs/SFT_deepdream.gif) |
-| Deep Dream (altered mean RGB)| are neat      |    $1 |
+| Deep Dream (altered mean RGB)| are neat      |  ![](gifs/ST_deepdream_prior1.gif) |
 | Deep Dream (threshold)| are neat      |    $1 |
 
 
